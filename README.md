@@ -8,7 +8,7 @@ Check out the live version [here](https://timely-crisp-a79271.netlify.app).
 
 ## Docker Image
 
-You can find the Docker image for this project [here](https://hub.docker.com/r/pankajs53/pokemon-react-app/v1).
+You can find the Docker image for this project: pankajs53/pokemon-react-app
 
 ## Features
 
